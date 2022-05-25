@@ -1,0 +1,44 @@
+{
+  "name": "pluto-envmap-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@14islands/lerp": "1.0.3",
+    "@14islands/r3f-scroll-rig": "6.1.4",
+    "@react-spring/three": "9.1.2",
+    "@react-three/drei": "5.1.6",
+    "@react-three/fiber": "6.1.5",
+    "@react-three/xr": "3.1.1",
+    "@usable-react/use-interval": "1.0.0",
+    "@use-gesture/react": "10.0.0-beta.7",
+    "@use-it/interval": "1.0.0",
+    "d3-ease": "2.0.0",
+    "leva": "0.9.11",
+    "r3f-perf": "3.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.0",
+    "three": "0.127.0",
+    "three-stdlib": "2.2.0",
+    "three.meshline": "1.3.0",
+    "wipe.css": "1.3.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
